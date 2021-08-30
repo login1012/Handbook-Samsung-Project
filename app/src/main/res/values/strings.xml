@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Экзамены</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Подготовка к экзаменам</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_html">WEB</string>
+    <string name="menu_css">Методы оптимизации</string>
+    <string name="menu_js">Бизнес основы</string>
+    <string name="menu_dif">Разное</string>
+    <string name="menu_res">Использованные ресурсы</string>
+
+    <string name="dif"> Приложение - проект на 3 курсе \n студентки 3 курса 7 группы \n ИВТиПт ЮФУ \n Мельничук Е.Ю. </string>
+
+    <string name="res2">Информация для справочника подготовлена с помощью ресурса https://html5book.ru/</string>
+
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ex_array">
+        <item>Время экзаменов не определено</item>
+    </string-array>
+    <string-array name="dif_array">
+        <item>Информация о приложении</item>
+    </string-array>
+    <string-array name="res_array">
+        <item>Справочная информация</item>
+    </string-array>
+</resources>

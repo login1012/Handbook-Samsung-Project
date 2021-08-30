@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_html"
+            android:icon="@drawable/ic_html1"
+            android:title="@string/menu_html" />
+        <item
+            android:id="@+id/nav_css"
+            android:icon="@drawable/ic_seconf"
+            android:title="@string/menu_css" />
+        <item
+            android:id="@+id/nav_js"
+            android:icon="@drawable/ic_fourth"
+            android:title="@string/menu_js" />
+    </group>
+
+    <item android:title="Другое">
+        <menu>
+            <item
+                android:id="@+id/nav_dif"
+                android:icon="@drawable/ic_dif"
+                android:title="@string/menu_dif" />
+            <item
+                android:id="@+id/nav_res"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_res"
+                />
+        </menu>
+    </item>
+
+</menu>
